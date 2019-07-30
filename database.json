@@ -16,6 +16,10 @@
       "GIST: sphere.groovy",
       "1564508012562"
     ],
+    "https://gist.github.com/49f127e83c60c6eb1250ca0f28950b35.git": [
+      "GIST: cylinder.groovy",
+      "1564509021536"
+    ],
     "https://github.com/Norteyi/CommonWealthRobotics.github.io.git": [
       "Norteyi/CommonWealthRobotics.github.io",
       "1564503889061"
@@ -30,6 +34,10 @@
     "https://gist.github.com/8439753beec55b401e968b2cec9fca0b.git:sphere.groovy": [
       "https://gist.github.com/8439753beec55b401e968b2cec9fca0b.git",
       "sphere.groovy"
+    ],
+    "https://gist.github.com/49f127e83c60c6eb1250ca0f28950b35.git:cylinder.groovy": [
+      "https://gist.github.com/49f127e83c60c6eb1250ca0f28950b35.git",
+      "cylinder.groovy"
     ],
     "https://gist.github.com/8f3e579a4edb98559f54a398ceb79616.git:cube.groovy": [
       "https://gist.github.com/8f3e579a4edb98559f54a398ceb79616.git",
