@@ -3,10 +3,18 @@
     "https://github.com/Norteyi/DragonStart.git": [
       "Norteyi/DragonStart",
       "1564503395379"
+    ],
+    "https://gist.github.com/8f3e579a4edb98559f54a398ceb79616.git": [
+      "GIST: cube.groovy",
+      "1564503567822"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/8f3e579a4edb98559f54a398ceb79616.git:cube.groovy": [
+      "https://gist.github.com/8f3e579a4edb98559f54a398ceb79616.git",
+      "cube.groovy"
+    ],
     "https://github.com/Norteyi/DragonStart.git:Scene.java": [
       "https://github.com/Norteyi/DragonStart.git",
       "Scene.java"
