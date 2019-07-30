@@ -12,6 +12,10 @@
       "GIST: cube.groovy",
       "1564503567822"
     ],
+    "https://gist.github.com/8439753beec55b401e968b2cec9fca0b.git": [
+      "GIST: sphere.groovy",
+      "1564508012562"
+    ],
     "https://github.com/Norteyi/CommonWealthRobotics.github.io.git": [
       "Norteyi/CommonWealthRobotics.github.io",
       "1564503889061"
@@ -23,6 +27,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/8439753beec55b401e968b2cec9fca0b.git:sphere.groovy": [
+      "https://gist.github.com/8439753beec55b401e968b2cec9fca0b.git",
+      "sphere.groovy"
+    ],
     "https://gist.github.com/8f3e579a4edb98559f54a398ceb79616.git:cube.groovy": [
       "https://gist.github.com/8f3e579a4edb98559f54a398ceb79616.git",
       "cube.groovy"
