@@ -4,6 +4,10 @@
       "Norteyi/DragonStart",
       "1564503395379"
     ],
+    "https://gist.github.com/ebae115030dac2264c8dde30446fd346.git": [
+      "GIST: roundedcube.groovy",
+      "1564507465789"
+    ],
     "https://gist.github.com/8f3e579a4edb98559f54a398ceb79616.git": [
       "GIST: cube.groovy",
       "1564503567822"
@@ -26,6 +30,10 @@
     "https://gist.github.com/9cc481254847e4478851288e7d704779.git:ChamferedParts.groovy": [
       "https://gist.github.com/9cc481254847e4478851288e7d704779.git",
       "ChamferedParts.groovy"
+    ],
+    "https://gist.github.com/ebae115030dac2264c8dde30446fd346.git:roundedcube.groovy": [
+      "https://gist.github.com/ebae115030dac2264c8dde30446fd346.git",
+      "roundedcube.groovy"
     ],
     "https://github.com/Norteyi/DragonStart.git:Scene.java": [
       "https://github.com/Norteyi/DragonStart.git",
