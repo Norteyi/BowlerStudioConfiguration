@@ -11,6 +11,10 @@
     "https://github.com/Norteyi/CommonWealthRobotics.github.io.git": [
       "Norteyi/CommonWealthRobotics.github.io",
       "1564503889061"
+    ],
+    "https://gist.github.com/9cc481254847e4478851288e7d704779.git": [
+      "GIST: parts that have chamfered",
+      "1564506835975"
     ]
   },
   "studio-open-web": {},
@@ -18,6 +22,10 @@
     "https://gist.github.com/8f3e579a4edb98559f54a398ceb79616.git:cube.groovy": [
       "https://gist.github.com/8f3e579a4edb98559f54a398ceb79616.git",
       "cube.groovy"
+    ],
+    "https://gist.github.com/9cc481254847e4478851288e7d704779.git:ChamferedParts.groovy": [
+      "https://gist.github.com/9cc481254847e4478851288e7d704779.git",
+      "ChamferedParts.groovy"
     ],
     "https://github.com/Norteyi/DragonStart.git:Scene.java": [
       "https://github.com/Norteyi/DragonStart.git",
